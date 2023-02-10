@@ -6,17 +6,12 @@
 Backend-junior 
 
 - 🔭 Atualmente estou em processo de estágio (Programador junior) na empresa (https://varsolutions.com.br/lp-captura/)
-
 - 💬 Pergunte-me sobre ***JavaScript, HTML, CSS, bootstrap, Java, Sprengboot, Postman, Api-rest, Swagger: API Documentation***
-
 - ⚡ Curiosity **to learn every day 😜**
-
 - 👨‍💻 Mais em  [samuelsouza.dev](https://samuelwesleysouza.github.io/Portfolio/)
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
@@ -32,17 +27,14 @@ Backend-junior
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwesleysouza&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-
 <br>
 ## Contact
 
 <p align="left" style="background:yellow">
-
 <a href="https://www.linkedin.com/in/samuel-souza-423903219/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-samuelwesleysouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
