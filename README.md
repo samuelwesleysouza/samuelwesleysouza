@@ -30,7 +30,7 @@ src=https://raw.githubusercontent.com/gist/samuelwesleysouza/438547ebd75d17736d6
 - IDEs como IntelliJ IDEA, Eclipse e Visual Studio
 - Postman para testar APIs
 - Swagger
-- 
+- Insomia
 ## Complementos de Conhecimento/
 - Docker
 - Cloud
