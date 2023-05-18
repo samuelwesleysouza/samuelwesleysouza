@@ -1,11 +1,39 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Samuel Souza. Seja bem-vindo ao meu git</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor de software
-Backend-Java && C# && DotNet 
-Micro Serviços Spring e Net Framwork
+- 🔥 ## Habilidades Principais
+- Desenvolvimento Backend em Java
+- Desenvolvimento Backend em .NET C#
+## Linguagens de Programação
+- Java
+- C#
+## Frameworks
+### Spring Boot
+- Desenvolvimento de microservices usando Spring Boot
+- Criação de APIs RESTful com Spring Boot
+- Integração com bancos de dados usando Spring Data JPA
 
-- 🔭 Atualmente estou em processo de estágio (Desenvolvedor Back-end-Java) na empresa (https://varsolutions.com.br/lp-captura/)
+### .NET Framework
+- Desenvolvimento de aplicativos web usando .NET Framework
+- Criação de APIs com ASP.NET Web API
+- Acesso a dados com Entity Framework
+
+## Banco de Dados
+- Conhecimento em bancos de dados relacionais, como MySQL e SQL
+- Experiência em consultas SQL e otimização de consultas
+
+## Ferramentas de Desenvolvimento
+- Git
+- IDEs como IntelliJ IDEA, Eclipse e Visual Studio
+- Postman para testar APIs
+- Swagger
+- 
+## Complementos de Conhecimento/
+- Docker
+- Cloud
+- Arquitetura - MVC - Exagonal 
+
+- 🔭 Atualmente estou em Busca de emprego (Desenvolvedor Back-end-Java) na empresa (https://varsolutions.com.br/lp-captura/)
 - 💬 Pergunte-me sobre ***JavaScript, HTML, CSS, bootstrap, Java, Spring Boot, Postman, API REST, Swagger: API Documentation***
 - ⚡ Curiosidade **aprender algo novo todos os dias 😜**
 - 👨‍💻 Saiba mais em [samuelsouza.dev](https://samuelwesleysouza.github.io/Portfolio/)
@@ -35,13 +63,8 @@ Micro Serviços Spring e Net Framwork
 
 ## Contato
 
-<p align="left" style="background:yellow">
-  <a href="https://www.linkedin.com/in/samuel-souza-423903219" target="_blank">LinkedIn</a>
-</p>
-
-
 ## Contato
 
 <p align="left" style="background:yellow">
-                                         <a href="https://www.linkedin.com/in/samuel-souza-423903219</a>
+  <a href="https://www.linkedin.com/in/samuel-souza-423903219</a>
   </p>
