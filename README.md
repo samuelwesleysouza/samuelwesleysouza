@@ -63,8 +63,8 @@
 
 ## Contato
 
-## Contato
-
 <p align="left" style="background:yellow">
-  <a href="https://www.linkedin.com/in/samuel-souza-423903219</a>
+  <a href="https://www.linkedin.com/in/samuel-souza-423903219"</a>
+ <p>Email: samuelwsouza@bol.com.br</p>
+ <p>(11) 971141905 </p>
   </p>
