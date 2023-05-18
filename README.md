@@ -30,8 +30,6 @@ Micro Serviços Spring e Net Framwork
 <p align="left">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark" alt="samuelwesleysouza's stats" />
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwesleysouza&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=html,css,javascript" alt="samuelwesleysouza's most used languages" />
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark"alt="samuelwesleysouza's most used languages"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwesleysouza&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=html,css,javascript" alt="samuelwesleysouza's most used languages"/>
 </p>
 <br>
 
