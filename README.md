@@ -36,10 +36,10 @@ src=https://raw.githubusercontent.com/gist/samuelwesleysouza/438547ebd75d17736d6
 - Cloud
 - Arquitetura - MVC - Exagonal 
 
-- 🔭 Atualmente estou em Busca de emprego (Desenvolvedor Back-end-Java) na empresa (https://varsolutions.com.br/lp-captura/)
-- 💬 Pergunte-me sobre ***JavaScript, HTML, CSS, bootstrap, Java, Spring Boot, Postman, API REST, Swagger: API Documentation***
+- 🔭 Atualmente estou em Busca de emprego (Desenvolvedor Back-end-Java)(Desenvolvimento Backend em .NET C#)
+- 💬 Pergunte-me sobre ***JavaScript, HTML, CSS, bootstrap, Java, Spring Boot, Postman, API REST, Swagger: API Documentation, Backend em .NET C#***
 - ⚡ Curiosidade **aprender algo novo todos os dias 😜**
-- 👨‍💻 Saiba mais em [samuelsouza.dev](https://samuelwesleysouza.github.io/Portfolio/)
+- 👨‍💻 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -70,4 +70,5 @@ src=https://raw.githubusercontent.com/gist/samuelwesleysouza/438547ebd75d17736d6
   <a href="https://www.linkedin.com/in/samuel-souza-423903219"</a>
  <p>Email: samuelwsouza@bol.com.br</p>
  <p>(11) 971141905 </p>
+
   </p>
