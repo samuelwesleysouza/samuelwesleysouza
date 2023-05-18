@@ -25,15 +25,22 @@ Micro Serviços Spring e Net Framwork
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 <br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark"
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwesleysouza&layout=compact&theme=vision- 
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark" 
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark" alt="samuelwesleysouza's stats" />
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwesleysouza&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=html,css,javascript" alt="samuelwesleysouza's most used languages" />
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuelwesleysouza&show_icons=true&theme=vision-friendly-dark"alt="samuelwesleysouza's most used languages"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelwesleysouza&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=html,css,javascript" alt="samuelwesleysouza's most used languages"/>
-   </p>
+</p>
 <br>
+
+## Contato
+
+<p align="left" style="background:yellow">
+  <a href="https://www.linkedin.com/in/samuel-souza-423903219" target="_blank">LinkedIn</a>
+</p>
+
 
 ## Contato
 
