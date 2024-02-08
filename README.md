@@ -5,6 +5,7 @@ src=https://raw.githubusercontent.com/gist/samuelwesleysouza/438547ebd75d17736d6
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 ## Habilidades Principais
+Sou um gestor de tecnologia com ampla experiência em liderar equipes de TI, desenvolver estratégias de negócios e implementar soluções tecnológicas inovadoras.
 - Desenvolvimento Backend em Java
 - Desenvolvimento Backend em .NET C#
 ## Linguagens de Programação
